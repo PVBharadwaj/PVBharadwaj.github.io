@@ -67,11 +67,11 @@ body{
     #Home {
         background-image: url(assets/download.jpg);
         text-align: center;
-        height: 70vh;
+        height: 50vh;
     }
     .header-box, .About-box, .testim, .test{
         width: 75%;
-        padding: 0%;
+        padding: 10% 0%;
     }
     .header-box h1{
         padding-top: 19%;
